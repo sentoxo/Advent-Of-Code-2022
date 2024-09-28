@@ -33,11 +33,11 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
   - [x] Part 1
   - [x] Part 2
 - Day10
-  - [ ] Part 1
-  - [ ] Part 2
+  - [x] Part 1
+  - [x] Part 2
 - Day11
-  - [ ] Part 1
-  - [ ] Part 2
+  - [x] Part 1
+  - [x] Part 2
 - Day12
-  - [ ] Part 1
-  - [ ] Part 2
+  - [x] Part 1
+  - [x] Part 2
