@@ -47,3 +47,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - Day14
   - [x] Part 1
   - [x] Part 2
+- Day15
+  - [x] Part 1
+  - [x] Part 2
